@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&display=swap');
+
+html
+{
+   background-color: #fafafa;
+}
+
+#top
+{
+    margin-top: 3%;
+    text-align: center;
+    font-family:"Poppins", sans-serif;
+    font-weight: 200;
+    
+}
+#bold
+{
+    margin-top: -1.5%;
+    text-align: center;
+    font-family:"Poppins", serif;
+    font-weight: 600;
+    color: #484b5c;
+    
+}
+
+#text
+{
+    margin-top: -1%;
+    text-align: center;
+    font-family:"Poppins", sans-serif;
+    opacity: 40%;
+    font-weight: 400; 
+    font-size: 15px;
+}
+
+div {
+    box-shadow:
+    0.3px 1px 2.2px rgba(0, 0, 0, 0.045),
+    0.8px 2.5px 5.3px rgba(0, 0, 0, 0.065),
+    1.5px 4.6px 10px rgba(0, 0, 0, 0.08),
+    2.7px 8.3px 17.9px rgba(0, 0, 0, 0.095),
+    5px 15.5px 33.4px rgba(0, 0, 0, 0.115),
+    12px 37px 80px rgba(0, 0, 0, 0.16);
+    border-radius: 10px;
+    padding: 50px;
+    margin: 20px;
+}
+.teambuilder
+{
+    border-top: 4px solid hsl(0, 78%, 62%);
+    margin-left: 40%;
+    margin-top: 2%;
+    width: 250px;
+    height: 150px;
+    box-shadow: 5x 10px #888888;
+}
+.Karma
+{
+    border-top: 4px solid hsl(34, 97%, 64%);
+    margin-left: 40%;
+    margin-top: 2%;
+    width: 250px;
+    height: 150px;
+    box-shadow: 5x 10px #888888;
+}
+.Calculator
+{
+    border-top: 4px solid hsl(212, 86%, 64%);
+    margin-left: 60%;
+    margin-top: -22%;
+    width: 250px;
+    height: 150px;
+    box-shadow: 5x 10px #888888;
+}
+
+.Supervisor
+{
+    border-top: 4px solid hsl(212, 86%, 64%);
+    margin-left:20%;
+    margin-top: -14.5%;
+    width: 250px;
+    height: 150px;
+    box-shadow: 5x 10px hsl(180, 62%, 55%)
+}
+h2
+{
+    
+    font-family:"Poppins", serif;
+    margin-left: -20px;
+    margin-top: -20px;
+    font-weight: 400;
+    color:#5a5a61;
+    
+}
+h3
+{
+    font-family:"Poppins", serif;
+    margin-left: -20px;
+    font-size: 13px;
+    opacity: 40%;
+    margin-top: -20px;
+    font-weight: 400;
+    color:#5a5a61;
+}
+
+img
+{
+    margin-top: 20%;
+    margin-left: 80%;
+}
